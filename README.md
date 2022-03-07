@@ -6,7 +6,9 @@ MCShaderCFD is a shaderpack that can be simply installed by cloning this reposit
 The simulation is integrated in the Minecraft world with a ray marched approach.
 
 In-game demonstration (115³ voxels):
-![demonstration](demo.png)
+
+https://user-images.githubusercontent.com/43861898/157133318-fe84f0eb-c904-4f54-bac1-a3ff7f80c7d7.mp4
+
 
 # Data representation
 The simulation state is stored by layer in a 2D buffer and updated each frame with its previous state.
